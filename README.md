@@ -87,7 +87,7 @@ Use Case Diagram
 The diagram of the Ivanhoe over the networking to demonstrate how the Ivanhoe
 work
 
-<img src="Report/Images/Use Case Diagram.pdf" height="600" alt="Screenshot"/> 
+<img src="Report/Images/Use Case Diagram.jpg" height="600" alt="Screenshot"/> 
 
 
 Class Diagram
@@ -95,4 +95,4 @@ Class Diagram
 
 The diagram of the Ivanhoe over the project to demonstrate all classes
 
-<img src="Report/Images/Class Diagram.pdf" height="600" alt="Screenshot"/> 
+<img src="Report/Images/Class Diagram.jpg" height="600" alt="Screenshot"/> 
